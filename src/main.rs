@@ -12,5 +12,5 @@
 #![deny(clippy::missing_docs_in_private_items)]
 
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world2!");
 }
