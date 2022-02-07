@@ -5,6 +5,7 @@ version = "0.1.1"
 edition = "2021"
 description = ""
 license = "BSL-1.0"
+rust-version = "1.54"
 
 repository = "https://github.com/xoac/opinionated-rust-template-test"
 readme = "README.md"
